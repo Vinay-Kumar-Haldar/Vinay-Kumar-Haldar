@@ -68,7 +68,7 @@ A data analytics project on Indian e-commerce sales data. It uses **SQL** for qu
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vinaykumarhaldar/
-- 📧 Email:vinaykumarhaldar1@gmail.com
+- 📧 Email: vinaykumarhaldar1@gmail.com
 
 
 ---
